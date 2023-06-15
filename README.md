@@ -17,6 +17,9 @@ Para ejecutar el código y probar las funcionalidades implementadas, sigue los s
 
 1.  Asegúrate de tener Ruby instalado en tu sistema.
 2.  Descarga o clona este repositorio en tu máquina local.
+
+        git clone https://github.com/toffycaluga/herencia_polimorfismo_ruby.git
+
 3.  Navega hasta el directorio del proyecto.
 4.  Ejecuta el siguiente comando en tu terminal:
 
